@@ -27,6 +27,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo groupadd docker<br>
 sudo usermod -aG docker $USER<br>
 newgrp docker<br>
-<br>
+
 -----------------------------------------------------------------------------------------------------------------
 
